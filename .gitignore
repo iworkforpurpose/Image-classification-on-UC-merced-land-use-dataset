@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.zip
+.DS_Store
+*.npy
+*.npz
+*.pkl
+dataset/
+outputs/
+*.log
+*.tmp
+

@@ -6,14 +6,14 @@ This project implements and compares four popular Convolutional Neural Network (
 
 ## 📁 Project Structure
 
-├── main.py # Main training/testing pipeline
-├── config.py # Configuration and hyperparameters 
-├── models/ │ ├── lenet.py │ ├── alexnet.py │ ├── vgg.py │ └── resnet.py 
-├── utils/ │ ├── data_utils.py # Data loaders │ 
-             ├── visualization.py # Training curves, confusion matrix, metrics 
-├── outputs/ # Model weights and results (excluded in .gitignore) 
-├── requirements.txt # Python dependencies 
-└── README.md # This file
+    ├── main.py # Main training/testing pipeline
+    ├── config.py # Configuration and hyperparameters 
+    ├── models/ │ ├── lenet.py │ ├── alexnet.py │ ├── vgg.py │ └── resnet.py 
+    ├── utils/ │ ├── data_utils.py # Data loaders │ 
+                 ├── visualization.py # Training curves, confusion matrix, metrics 
+    ├── outputs/ # Model weights and results (excluded in .gitignore) 
+    ├── requirements.txt # Python dependencies 
+    └── README.md # This file
 
 
 ---
